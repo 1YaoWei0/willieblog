@@ -6,6 +6,7 @@ categories:
 tags:
  - ScaleUnit
 description: This article shows how to format the amount based on the Language Id
+comments: true
 ---
 
 ### How to get the Language Id

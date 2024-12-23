@@ -5,6 +5,7 @@ tags:
 categories: 
  - X++
 description: The example code for merging the ledger account
+comments: true
 ---
 
 The example code as shown below:

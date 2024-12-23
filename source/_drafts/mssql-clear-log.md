@@ -6,6 +6,7 @@ tags:
 categories:
  - X++
 description: This article describes how to clean the database log disk
+comments: true
 ---
 
 {% asset_img "mssql-clear-log.png" "clear mssql clear log example" %}
