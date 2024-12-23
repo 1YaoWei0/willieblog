@@ -107,3 +107,13 @@ deploy:
   type: git
   repository: https://github.com/1YaoWei0/1YaoWei0.github.io.git
   branch: main
+
+# 整合 utterances 评论
+utterance:
+  enable: true
+  # 仓库名字，格式：[user-name]/[repo-name]，如：lanweihong/utterance_repo
+  repo: 1YaoWei0/utterances-comments
+  # 主题
+  theme: github-dark
+  # 映射配置
+  issue_term: pathname
