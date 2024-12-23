@@ -1,12 +1,13 @@
 ---
 title: Merge the Ledger Account
-date: 2024-12-23 15:56:06
-tags:
-categories: 
- - X++
+categories:
+  - X++
 description: The example code for merging the ledger account
 comments: true
+date: 2024-12-23 15:56:06
+tags:
 ---
+
 
 The example code as shown below:
 
