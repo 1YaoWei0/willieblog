@@ -5,6 +5,7 @@ tags:
   - ai
 categories:
   - flask
+  - ai
 description: The overview of the flask framework.
 comments: true
 date: 2025-01-07 19:22:34

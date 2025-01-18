@@ -1,7 +1,7 @@
 ---
 title: The way for clearing the log disk
 tags:
-  - MSSQL
+  - X++
 categories:
   - X++
 description: This article describes how to clean the database log disk

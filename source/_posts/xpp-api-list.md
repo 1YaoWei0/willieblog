@@ -2,6 +2,7 @@
 title: X++ api list
 date: 2024-12-23 15:41:59
 tags: 
+ - X++
 categories:
  - X++
 description: This article used to store the utility code of x++

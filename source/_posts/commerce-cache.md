@@ -2,9 +2,11 @@
 title: Cache
 date: 2024-12-22 12:42:02
 categories: 
+ - ScaleUnit
  - Retail Commerce
 tags:
  - ScaleUnit
+ - Retail Commerce
 comments: true
 description: When we cannot find or edit the extension properties, we can use the cache for building the communication between front-end and back-end.
 ---
