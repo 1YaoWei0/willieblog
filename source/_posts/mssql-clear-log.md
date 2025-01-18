@@ -1,14 +1,13 @@
 ---
 title: The way for clearing the log disk
+date: 2024-12-23 16:33:47
 tags:
-  - X++
+ - X++
 categories:
-  - X++
+ - X++
 description: This article describes how to clean the database log disk
 comments: true
-date: 2024-12-23 16:33:47
 ---
-
 
 {% asset_img "mssql-clear-log.png" "clear mssql clear log example" %}
 
