@@ -4,7 +4,7 @@ tags:
   - flask
 categories:
   - flask
-description: Flask Tutorial
+description: The first tutorial flask framework
 comments: true
 date: 2025-01-08 19:23:28
 ---
@@ -14,18 +14,18 @@ date: 2025-01-08 19:23:28
 
 ## Project Layout
 
-创建一个项目目录然后打开。
+创建一个项目文件夹然后打开。
 
 ```powershell
-$ mkdir flask-tutorial
-$ cd flask-tutorial
+mkdir flask-tutorial # 创建 flask 项目文件夹
+cd flask-tutorial
 ```
 
 按照 [Flask Overview](https://1yaowei0.github.io/2025/01/07/ai-plateform-flask/) 设置项目目录。
 
 ***
 
-一个大的 flask 项目，不可以将所有的代码放到一个文件。Python 项目使用 *package* 将代码组织成多个模块，这些模块可以在需要的地方导入。
+一个大的**flask**项目，不可以将所有的代码放到一个文件。**Python**项目使用*package*将代码组织成多个模块，这些模块可以在需要的地方导入。
 
 这个项目应该包含：
 
