@@ -5,7 +5,6 @@ tags:
  - X++
 categories:
  - X++
-description: This article describes how to clean the database log disk
 comments: true
 ---
 

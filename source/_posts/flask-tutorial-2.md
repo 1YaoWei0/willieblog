@@ -1,12 +1,11 @@
 ---
 title: Flask Turorial 2
 tags:
-  - flask
+ - flask
 categories:
-  - flask
+ - flask
 comments: true
 date: 2025-01-09 20:19:16
-description: The flask turorial 2 
 ---
 
 

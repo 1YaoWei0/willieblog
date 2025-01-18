@@ -1,8 +1,7 @@
 ---
 title: Merge the Ledger Account
 categories:
-  - X++
-description: The example code for merging the ledger account
+ - X++
 comments: true
 date: 2024-12-23 15:56:06
 tags:

@@ -5,7 +5,6 @@ tags:
  - X++
 categories:
  - X++
-description: This article used to store the utility code of x++
 comments: true
 ---
 

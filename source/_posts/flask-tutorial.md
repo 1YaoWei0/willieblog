@@ -1,10 +1,9 @@
 ---
 title: Flask Tutorial 1
 tags:
-  - flask
+ - flask
 categories:
-  - flask
-description: The first tutorial flask framework
+ - flask
 comments: true
 date: 2025-01-08 19:23:28
 ---

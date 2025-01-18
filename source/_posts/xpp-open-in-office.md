@@ -6,20 +6,19 @@ tags:
  - X++
 categories:
  - X++
-description: The way to implement the opening in Microsoft Office.
 ---
 
 ## Operation Step
 
 The first step is to implement the **OfficeIMenuCustomizer** and **OfficeIGenerateWorkbookCustomExporter**.
 
-![Class Header](xpp-open-in-office/xpp-open-in-office.png)
+{% asset_img "xpp-open-in-office.png" "Class Header" %}
 
 The example code is as follows:
 
-![Class Header](xpp-open-in-office/xpp-open-in-office2.png)
+{% asset_img "xpp-open-in-office2.png" "Class Header" %}
 
-![Class Header](xpp-open-in-office/xpp-open-in-office3.png)
+{% asset_img "xpp-open-in-office3.png" "Class Header" %}
 
 ## Filter Setting
 

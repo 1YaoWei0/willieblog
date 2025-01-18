@@ -2,12 +2,9 @@
 title: How to print the amount based on the Language Id
 date: 2024-12-23 14:56:52
 categories: 
- - ScaleUnit
  - Retail Commerce
 tags:
- - ScaleUnit
  - Retail Commerce
-description: This article shows how to format the amount based on the Language Id
 comments: true
 ---
 

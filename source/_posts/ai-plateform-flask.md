@@ -1,12 +1,9 @@
 ---
 title: Flask Overview
 tags:
-  - flask
-  - ai
+ - flask
 categories:
-  - flask
-  - ai
-description: The overview of the flask framework.
+ - flask
 comments: true
 date: 2025-01-07 19:22:34
 ---
