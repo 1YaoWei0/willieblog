@@ -3,9 +3,10 @@ title: Open in Microsoft Office
 comments: true
 date: 2025-01-18 22:15:28
 tags: 
- - X++
 categories:
- - X++
+ - d365
+ - x++
+description: Open in Microsoft Office
 ---
 
 ## Operation Step

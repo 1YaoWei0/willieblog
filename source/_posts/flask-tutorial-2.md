@@ -1,11 +1,12 @@
 ---
 title: Flask Turorial 2
 tags:
- - flask
 categories:
- - flask
+ - d365
+ - x++
 comments: true
 date: 2025-01-09 20:19:16
+description: Flask Turorial 2th
 ---
 
 

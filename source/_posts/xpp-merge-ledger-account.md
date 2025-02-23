@@ -1,11 +1,12 @@
 ---
 title: Merge the Ledger Account
 categories:
- - X++
+ - d365
+ - x++
 comments: true
 date: 2024-12-23 15:56:06
 tags:
- - X++
+description: Merge the Ledger Account
 ---
 
 

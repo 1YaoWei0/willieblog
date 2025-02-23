@@ -1,11 +1,12 @@
 ---
 title: Flask Overview
 tags:
- - flask
 categories:
- - flask
+ - d365
+ - x++
 comments: true
 date: 2025-01-07 19:22:34
+description: Flask Overview
 ---
 
 

@@ -2,10 +2,11 @@
 title: Cache
 date: 2024-12-22 12:42:02
 categories: 
- - Retail Commerce
+ - d365
+ - x++
 tags:
- - Retail Commerce
 comments: true
+description: Retail Cache
 ---
 
 POS 前后端通信通常需要使用 `extension properties`；`extension properties` 存在于 **Cart**、**CartLine**、**SalesTransaction** 和 **SalesLine** 等；但某些场景，无法编辑 `extension properties`，所以无法通信；可以按照以下 **Cache** 构建新的通信机制；（谨慎使用，影响性能）
