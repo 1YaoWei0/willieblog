@@ -1,11 +1,12 @@
 ---
-title: How to print the amount based on the Language Id
+title: How to Print the Amount Based on the Language Id
 date: 2024-12-23 14:56:52
 categories: 
- - Retail Commerce
+ - commerce
+ - c#
 tags:
- - Retail Commerce
 comments: true
+description: This article shows you the way that got the amount based on the language id.
 ---
 
 ### How to get the Language Id

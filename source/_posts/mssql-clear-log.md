@@ -1,11 +1,13 @@
 ---
-title: The way for clearing the log disk
+title: The Way for Clearing the Log Disk
 date: 2024-12-23 16:33:47
 tags:
- - X++
+ - x++
+ - t-sql
 categories:
- - X++
+ - d365
 comments: true
+description: This article shows you the sql scripts that cleared the sql log disk.​
 ---
 
 {% asset_img "mssql-clear-log.png" "clear mssql clear log example" %}
