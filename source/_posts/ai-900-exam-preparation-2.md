@@ -2,9 +2,8 @@
 title: 微软【AI-900】考试准备系列博客二
 comments: true
 date: 2025-02-25 21:04:43
-tags:
 categories:
- - ai-900
+ - ai
 description: 本文记录着【AI-900】入门认证考试的学习笔记
 ---
 

@@ -2,9 +2,7 @@
 title: Invoice Purchase Order Example
 comments: true
 date: 2025-02-23 20:51:59
-tags:
 categories:
- - d365
  - x++
 description: Invoice Purchase Order Example
 ---

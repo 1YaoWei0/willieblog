@@ -2,9 +2,7 @@
 title: Cache
 date: 2024-12-22 12:42:02
 categories: 
- - d365
- - x++
-tags:
+ - commerce
 comments: true
 description: Retail Cache
 ---

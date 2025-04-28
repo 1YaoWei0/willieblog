@@ -1,9 +1,7 @@
 ---
 title: Flask Tutorial 1
-tags:
 categories:
- - d365
- - x++
+ - flask
 comments: true
 date: 2025-01-08 19:23:28
 description: Flask Tutorial

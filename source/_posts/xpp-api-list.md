@@ -1,9 +1,7 @@
 ---
 title: X++ api list
 date: 2024-12-23 15:41:59
-tags: 
 categories:
- - d365
  - x++
 comments: true
 description: X++ Api List

@@ -3,8 +3,6 @@ title: How to Print the Amount Based on the Language Id
 date: 2024-12-23 14:56:52
 categories: 
  - commerce
- - c#
-tags:
 comments: true
 description: This article shows you the way that got the amount based on the language id.
 ---

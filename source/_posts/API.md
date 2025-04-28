@@ -5,7 +5,6 @@ date: 2025-03-29 16:05:54
 tags:
 categories:
  - asp.net
- - azure
 description: 该文档介绍两种使用Microsoft Entra ID（原Azure AD）保护API的方法：基于JWT的身份验证和基于OpenID Connect的授权。前者通过生成令牌、配置OWIN中间件及角色授权实现API保护，后者详细说明在Azure门户注册应用、配置认证参数，并在ASP.NET中集成OpenID Connect中间件的流程，均包含C#代码示例和关键配置步骤。
 ---
 
