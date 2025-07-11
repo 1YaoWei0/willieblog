@@ -5,4 +5,4 @@ type: "about"
 comments: false
 ---
 
-I am a Dynamics 365 F&O developer. I want to be an AI + ERP integrated solution architect.
+Hello there! My name is Willie Yao. I am a Dynamics 365 F&O developer.
