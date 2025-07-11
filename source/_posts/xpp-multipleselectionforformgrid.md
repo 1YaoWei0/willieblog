@@ -8,7 +8,7 @@ tags:
  - Form
  - Grid
 categories:
- - x==
+ - x++
 description: How to add multiple lookup control to Form Grid
 ---
 
