@@ -3,7 +3,7 @@ title: RunBaseBatch How to enable "Run In Batch"
 comments: true
 date: 2026-01-11 13:14:21
 tags:
- - RunBase
+ - RunBaseBatch
 categories:
  - x++
 description: RunBaseBatch How to enable "Run In Batch"
