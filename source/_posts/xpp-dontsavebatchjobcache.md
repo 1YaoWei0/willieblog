@@ -1,13 +1,12 @@
 ---
-title: Preventing Cache Retention in BatchJob Executions
+title: RunBase How to Preventing Cache Retention in BatchJob Executions
 comments: true
-date: 2025-07-11 21:15:08
+date: 2026-01-11 13:02:24
 tags:
  - RunBase
- - RunBaseBatch
 categories:
  - x++
-description: Preventing Cache Retention in BatchJob Executions
+description: RunBase How to Preventing Cache Retention in BatchJob Executions
 ---
 
 When developing a **BatchJob** in Dynamics 365 Finance and Operations, you might encounter an issue where the system retains cached data after a job runs. This results in incorrect data being used during subsequent runs, even after clearing the cache. This typically happens when **global variables are initialized using `args` passed from the `main` method** before calling the `prompt` method.
