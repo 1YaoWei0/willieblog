@@ -12,6 +12,12 @@ categories:
  - x++
 description: How to bring the sub billing schedule customized field value to sales order
 ---
+![How to bring the sub billing schedule customized field value to sales order technical flow diagram](xpp-extendsubbillingschedule/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: How to bring the sub billing schedule customized field value to sales order. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 Developer can extend `SubBillCreateSalesOrder` class to extend the customized fields value populated logic. Please see the example code:
 

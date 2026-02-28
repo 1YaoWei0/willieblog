@@ -9,6 +9,12 @@ categories:
  - x++
 description: This content is from the MB-500 training material. How should we handle when the extended fields exceed 10?
 ---
+![Implement the SysExtensionSerializer technical flow diagram](xpp-ImplementTheSysExtensionSerializer/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: Implement the SysExtensionSerializer. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 You can add fields to a table by using an extension. If you're adding more than 10 fields to a table extension, the compiler throws the best practice error. We recommend that you use the alternative way of creating a new table and adding a foreign key relation to the standard table. Maps are available to help you improve a developer’s processes. The SysExtensionSerializerMap and SysExtensionSerializerExtensionMap maps make the create, read, update, and delete (CRUD) operations automated to the custom table.
 You can create a new table for your new fields, as the following image depicts.

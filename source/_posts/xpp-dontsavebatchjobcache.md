@@ -8,6 +8,12 @@ categories:
  - x++
 description: RunBase How to Preventing Cache Retention in BatchJob Executions
 ---
+![RunBase How to Preventing Cache Retention in BatchJob Executions technical flow diagram](xpp-dontsavebatchjobcache/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: RunBase How to Preventing Cache Retention in BatchJob Executions. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 When developing a **BatchJob** in Dynamics 365 Finance and Operations, you might encounter an issue where the system retains cached data after a job runs. This results in incorrect data being used during subsequent runs, even after clearing the cache. This typically happens when **global variables are initialized using `args` passed from the `main` method** before calling the `prompt` method.
 

@@ -7,6 +7,12 @@ categories:
  - x++
 description: Query On-Hand inventory using specific inventory-dimensions
 ---
+![Query On-Hand inventory using specific inventory-dimensions technical flow diagram](xpp-onhandinvent/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: Query On-Hand inventory using specific inventory-dimensions. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 ## InventDimOnhand
 

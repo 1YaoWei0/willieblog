@@ -8,6 +8,12 @@ categories:
  - x++
 description: RunBaseBatch How to enable "Run In Batch"
 ---
+![RunBaseBatch How to enable "Run In Batch" technical flow diagram](xpp-runbasebatch-how-to-enable-run-in-batch/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: RunBaseBatch How to enable "Run In Batch". Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 # How to Enable Run In Batch in RunBaseBatch
 
@@ -149,4 +155,4 @@ This confirms that:
 2. Calling `super()` in `new()`, `dialog()`, and `getFromDialog()` is **mandatory, not a matter of coding style**;
 3. The `super()` call chain contains **critical logic for BatchInfo initialization and Batch parameter construction**;
 4. Even if the code compiles and runs, missing any required `super()` call may result in Run In Batch being “visible but ineffective”;
-5. In real projects, **around 80% of RunBaseBatch issues are caused by incomplete initialization rather than business logic errors**.
+5. In enterprise implementations, **a common root cause of RunBaseBatch failures is incomplete framework initialization rather than business logic defects**.

@@ -7,6 +7,12 @@ categories:
  - d365
 description: Document Routing Agent in D365 F&O
 ---
+![Document Routing Agent in D365 F&O technical flow diagram](d365-documentroutingconfiguration/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: Document Routing Agent in D365 F&O. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 > Reprinted from: https://mohitrampal.com/2023/03/20/document-routing-agent-in-d365-fo/
 

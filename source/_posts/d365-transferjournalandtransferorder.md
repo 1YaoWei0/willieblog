@@ -7,6 +7,12 @@ categories:
  - d365
 description: Difference Between Transfer Journal and Transfer Order D365 F&O
 ---
+![Difference Between Transfer Journal and Transfer Order D365 F&O technical flow diagram](d365-transferjournalandtransferorder/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: Difference Between Transfer Journal and Transfer Order D365 F&O. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 In Dynamics 365 Finance and Operations (D365 F&O), knowing the difference between a transfer journal and a Transfer Order is crucial when handling inventories. Although they seem to be related, these two features serve separate purposes and meet different needs.
 

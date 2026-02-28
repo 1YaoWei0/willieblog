@@ -8,6 +8,12 @@ categories:
  - x++
 description: Create ledger journals in D365FO using X++
 ---
+![Create ledger journals in D365FO using X++ technical flow diagram](xpp-createledgerjournals/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: Create ledger journals in D365FO using X++. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 > Reprinted from: https://denistrunin.com/xpptools-createledgerjournal/
 

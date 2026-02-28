@@ -6,7 +6,12 @@ comments: true
 date: 2024-12-23 15:56:06
 description: Merge the Ledger Account
 ---
+![Merge the Ledger Account technical flow diagram](xpp-merge-ledger-account/cover.png)
 
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: Merge the Ledger Account. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 The example code as shown below:
 

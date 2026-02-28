@@ -8,6 +8,12 @@ categories:
  - x++
 description: How To Develop A D365 Number Sequence
 ---
+![How To Develop A D365 Number Sequence technical flow diagram](xpp-numbersequencedevelop/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: How To Develop A D365 Number Sequence. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 In Dynamics 365 Finance and Operations, number sequences are essential for generating unique identifiers for business records, such as orders, transactions, or custom entities. In this blog, we’ll walk through how to develop a custom number sequence module step by step.
 

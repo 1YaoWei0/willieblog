@@ -11,6 +11,12 @@ categories:
  - x++
 description: How to add multiple lookup control to Form Grid
 ---
+![How to add multiple lookup control to Form Grid technical flow diagram](xpp-multipleselectionforformgrid/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: How to add multiple lookup control to Form Grid. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 In some scenarios, we may need to allow users to select multiple values from a lookup within a grid on a form—for example, assigning multiple categories or tags to a line-level record. Out of the box, Dynamics 365 Finance and Operations does not support multi-select lookups directly on grid controls. However, we can achieve this behavior by extending the `SysLookupMultiSelectGrid` framework.
 

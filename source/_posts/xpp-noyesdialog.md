@@ -8,6 +8,12 @@ categories:
  - x++
 description: Insert a Yes/No Message box on a Form Click Button event
 ---
+![Insert a Yes/No Message box on a Form Click Button event technical flow diagram](xpp-noyesdialog/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: Insert a Yes/No Message box on a Form Click Button event. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 > Reprint from: [AX / D365FO – Insert a Yes/No Message box on a Form Click Button event](https://d365ffo.com/2023/05/15/ax-d365fo-insert-a-yes-no-message-box-on-a-form-click-button-event/#:~:text=Below%20is%20an%20example%20code%20DialogButton%20diagBut%3B%20str,DialogButton%3A%3ANo%2C%20strTitle%29%3B%20if%20%28diagBut%20%3D%3D%20DialogButton%3A%3ANo%29%20info%28%27Operation%20canceled%27%29%3B)
 
