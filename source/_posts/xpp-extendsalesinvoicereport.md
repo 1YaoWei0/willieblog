@@ -9,6 +9,12 @@ categories:
  - x++
 description: How to create a new design for a Sales Invoice report in D365FO
 ---
+![How to create a new design for a Sales Invoice report in D365FO technical flow diagram](xpp-extendsalesinvoicereport/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: How to create a new design for a Sales Invoice report in D365FO. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 > Reprinted from: https://denistrunin.com/xpptools-createledgerjournal/
 

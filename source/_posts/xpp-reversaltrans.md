@@ -10,6 +10,12 @@ categories:
  - x++
 description: Reverse customer transaction in X++
 ---
+![Reverse customer transaction in X++ technical flow diagram](xpp-reversaltrans/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: Reverse customer transaction in X++. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 > Reprinted from: https://community.dynamics.com/blogs/post/?postid=d7f28166-cd5f-469c-979c-4dc412212af1
 

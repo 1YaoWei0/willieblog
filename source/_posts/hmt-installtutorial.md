@@ -8,6 +8,12 @@ categories:
  - x++
 description: This article provides instructions on how to install the powerful Dynamics 365 development tools.
 ---
+![【HMT】How to Install HMT Development Tools technical flow diagram](hmt-installtutorial/cover.png)
+
+<!--
+AI Image Prompt:
+Create a clean, minimal, professional technical diagram for Microsoft Dynamics 365 Finance & Operations (D365 F&O). Topic: 【HMT】How to Install HMT Development Tools. Show key components, data flow arrows, extension points, transaction boundaries, and where X++ logic executes. Use simple boxes, labels, and directional connectors on a white background. Style should look like an enterprise architecture blueprint, no decorative art, no characters, no 3D effects.
+-->
 
 ## Installing Huamei 365® D365FO Tools for Visual Studio
 
